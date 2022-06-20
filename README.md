@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### I'm actively looking for a software engineering internship
+
+#### Most of the old software development projects done in university and solo projects are not uploaded here. Current projects should be here if there is no issue in development.
+#### Have 3.5 years of experience in programming.
+#### Interested in CI/CD.
+#### Willing to work as a remote.
 
 <!--
 **Gv3N/Gv3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
