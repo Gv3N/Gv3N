@@ -3,7 +3,7 @@
 
 #### Most of the old software development projects done in university and solo projects are not uploaded here. Current projects should be here if there is no issue in development.
 #### Have 3.5 years of experience in programming.
-#### Interested in CI/CD.
+#### Interested in CI/CD Automation.
 #### Willing to work as a remote.
 
 <!--
