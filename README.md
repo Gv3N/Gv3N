@@ -3,7 +3,7 @@
 
 #### Most of the old software development projects done in university and solo projects are not uploaded here. Current projects should be here if there is no issue in development.
 #### Have 3.5 years of experience in programming.
-#### Experienced in Java, MySQL, PHP, HTML, CSS, Android Programming, Arduino, Python and C# in Unity for Game Development.
+#### Experienced in Java, MySQL, PHP, HTML, CSS, JavaScript, Android Programming, Arduino, Python and C# in Unity for Game Development.
 #### Interested in CI/CD Automation.
 #### Willing to work as a remote.
 
