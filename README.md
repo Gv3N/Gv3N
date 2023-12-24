@@ -45,7 +45,7 @@
 
 📫 **Contact:**
 
--   Feel free to reach out to me through [baktajivan@gmail.com] or connect with me on [LinkedIn](https://my.linkedin.com/in/baktajivanpillay).
+-   Feel free to reach out to me through my email baktajivan@gmail.com or connect with me on [LinkedIn](https://my.linkedin.com/in/baktajivanpillay).
 
 <!--
 🌐 **Portfolio:**
