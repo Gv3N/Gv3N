@@ -1,27 +1,29 @@
-<div align="center"> <h1>Hello, I'm Baktajivan Pillay 👋</h1> <p>Passionate Junior Software Engineer | CI/CD Enthusiast | Remote Work Advocate</p> </div>
+<div align="center"> <h1>Hello, I'm Baktajivan Pillay 👋</h1> <p>Backend Developer | LAMP Stack, PHP & Laravel | System Optimization & DevOps | E-commerce & Real-time Data Systems Expert</p> </div>
 
 ### About Me
 
-🌟 Welcome to my GitHub! I'm a dedicated junior **backend software engineer** with a keen interest in crafting robust solutions and exploring the latest technologies. I thrive on challenges and constantly seek opportunities to enhance my skills in the dynamic world of software development.
+🌟 Welcome to my GitHub! I'm a experienced backend developer specializing in the LAMP stack, PHP, and the Laravel framework. Proven track record in optimizing system performance, enhancing user experiences, and driving project success through strategic collaboration and feedback. Key achievements include significant server cost reductions and the development of robust e-commerce and real-time data management systems.
+
+Proficient in DevOps practices, Git version control, MySQL database management, and front-end scripting with HTML, CSS, jQuery, and JavaScript. Known for effective communication, problem-solving skills, and a commitment to continuous learning and technology adoption.
 
 ### Experience
 
-🚀 **4.5 Years in Programming:**
+🚀 **5 Years in Programming:**
 
--   My journey includes a rich mix of university projects and solo endeavors, contributing to a diverse skill set and a solid foundation in software engineering principles. I take pride in my ability to learn fast, adapting to new technologies and challenges with enthusiasm and efficiency.
+-  I have a comprehensive background in software engineering, enriched by practical experience through various work engagements. I have successfully applied my skills to develop and implement diverse software solutions. My fast learning ability and adaptability have allowed me to efficiently embrace new technologies and overcome challenges in different work environments..
 
 ### Technical Proficiency
+- Managed project requirements using Trello, improved user experience, and provided strategic feedback to stakeholders, utilizing strong problem-solving skills and effective communication, all while meeting deadlines.
 
-💻 **Technologies I Work With:**
+- Collaborated with stakeholders, project manager, and team members to evaluate feedbacks and enhance features, ensuring alignment with stakeholders' expectations.
 
--   PHP | Laravel
--   MySQL | XAMPP
--   Java
--   HTML | CSS | JavaScript
--   Android Programming
--   Arduino
--   Python
--   C# in Unity for Game Development
+- Led backend streamlining by adding documentation for MySQL database management and followed SOLID principles while coding, ensuring scalability and adaptability. Created and published a CRUD template generator package on Packagist, facilitating the rapid development of CRUD systems.
+
+- Implemented Git version control management for project administration, enabling seamless code collaboration and instituting a backup protocol. Also, scheduled tasks to streamline reporting efforts.
+
+- Developed e-commerce, management, and real-time data management systems using the LAMP stack, PHP and Laravel framework. Leveraged HTML, CSS, jQuery, and JavaScript for front-end scripting, designed and managed MySQL databases, deployed and maintained cron jobs on Linux servers, and implemented websockets for real-time communication.
+
+- Demonstrated proficiency in optimizing performance and system functionality, significantly reducing server operation costs. Notable achievements include reducing execution time of a cron job fetching data from 4 RESTful APIs to the database by 87% (30s to 4s), and centralizing RESTful API data retrieval, reducing execution time by 63% (8s to 3s). Improved email template view execution time by 99% (120s to 1s), optimized data aggregation, reducing execution time by 98% (200s to 4s), and implemented a universal execution time logger, decreasing execution time by 93% (30s to 2s). These optimizations have greatly enhanced efficiency and reduced server usage costs.
 
 ### Projects
 
@@ -31,15 +33,10 @@
 
 ### Interests
 
-🤖 **CI/CD Automation:**
+🤖 **Backend Development & Automation:**
 
--   I'm fascinated by the world of Continuous Integration and Continuous Deployment. I actively seek ways to streamline development processes and improve project delivery through automation.
+-   I'm fascinated by the world of Continuous Integration and Continuous Deployment and DevOps practices. I actively seek ways to streamline development processes and improve project delivery through automation.
 
-### Availability
-
-🌐 **Remote Work:**
-
--   I am open to remote opportunities and believe in the power of collaboration, no matter where the team is located. Let's connect and explore how we can create great things together!
 
 ### Let's Connect
 
