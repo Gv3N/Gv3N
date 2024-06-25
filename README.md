@@ -42,7 +42,7 @@ Proficient in DevOps practices, Git version control, MySQL database management, 
 
 📫 **Contact:**
 
--   Feel free to reach out to me through my email baktajivan@gmail.com or connect with me on [LinkedIn](https://my.linkedin.com/in/baktajivanpillay).
+-   Feel free to reach out to me through my email baktajivan@gmail.com or connect with me on [LinkedIn](https://my.linkedin.com/in/baktajivanpillay). If interested please checkout my portfolio [website](https://gv3n.github.io/portfolio/)
 
 <!--
 🌐 **Portfolio:**
