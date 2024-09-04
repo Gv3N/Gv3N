@@ -8,7 +8,7 @@ Proficient in DevOps practices, Git version control, MySQL database management, 
 
 ### Experience
 
-🚀 **5 Years in Programming:**
+🚀 **8 Years in Programming:**
 
 -  I have a comprehensive background in software engineering, enriched by practical experience through various work engagements. I have successfully applied my skills to develop and implement diverse software solutions. My fast learning ability and adaptability have allowed me to efficiently embrace new technologies and overcome challenges in different work environments..
 
